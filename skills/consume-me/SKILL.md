@@ -1,6 +1,6 @@
 ---
 name: consume-me
-description: "Stress-test a plan or design from three angles: drill down into branches, scan laterally for missing alternatives, and zoom out to expose systemic gaps until ambiguity becomes explicit decisions. Use when the user wants rigorous plan review, design pressure-testing, or deep decision clarification. Ask Question tools are preferred."
+description: "Stress-test a plan or design from three angles: drill down into branches, scan laterally for missing alternatives, and zoom out to expose systemic gaps until ambiguity becomes explicit decisions. Use when the user wants rigorous plan review, design pressure-testing, or deep decision clarification. Question-asking tools are preferred."
 ---
 
 Interview me relentlessly about this plan from three perspectives. Stay concise, sharp, and unsentimental.
