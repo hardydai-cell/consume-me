@@ -39,6 +39,16 @@ This repository is a dedicated single-skill repo, but it uses the standard `skil
 npx skills@latest add hardydai-cell/consume-me --skill consume-me
 ```
 
+### Path-style install / 目录直装
+
+If you prefer the `owner/repo/path` style used by skill catalogs, this repository also supports direct installation from the skill directory:
+
+如果你更喜欢 skill catalog 常见的 `owner/repo/path` 风格，这个仓库也支持直接从 skill 目录安装：
+
+```bash
+npx skills@latest add https://github.com/hardydai-cell/consume-me/tree/main/skills/consume-me
+```
+
 ### Codex
 
 ```bash
@@ -55,6 +65,12 @@ npx skills@latest add hardydai-cell/consume-me --skill consume-me -a claude-code
 
 ```bash
 npx skills@latest add hardydai-cell/consume-me --skill consume-me -g -y
+```
+
+### Preview before install / 安装前预览
+
+```bash
+npx skills@latest add hardydai-cell/consume-me --list
 ```
 
 ## Works With Many Agents / 支持多类 Agent
