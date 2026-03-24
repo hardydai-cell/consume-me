@@ -28,6 +28,8 @@ If you are ready to feed it your brain, install it like this.
 
 This repository is a dedicated single-skill repo, but it uses the standard `skills/consume-me/` layout so it works cleanly with the open `skills` CLI ecosystem.
 
+It is also a pure text skill: no scripts, no binaries, no extra executables. From a distribution standpoint, it is very safe.
+
 ### Standard install
 
 ```bash
