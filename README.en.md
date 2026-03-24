@@ -56,6 +56,12 @@ npx skills@latest add hardydai-cell/consume-me --skill consume-me -a codex
 npx skills@latest add hardydai-cell/consume-me --skill consume-me -a claude-code
 ```
 
+### openclaw
+
+```bash
+npx skills@latest add hardydai-cell/consume-me --skill consume-me -a openclaw
+```
+
 ### Global install
 
 ```bash
@@ -70,7 +76,7 @@ npx skills@latest add hardydai-cell/consume-me --list
 
 ## Where It Can Feed
 
-This skill ships through the `skills` CLI workflow and can be installed into Codex, Claude Code, OpenCode, Cursor, and many other agent environments.
+This skill ships through the `skills` CLI workflow and can be installed into Codex, Claude Code, openclaw, OpenCode, Cursor, and many other agent environments.
 
 ## Example Prompts
 

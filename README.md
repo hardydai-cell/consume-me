@@ -56,6 +56,12 @@ npx skills@latest add hardydai-cell/consume-me --skill consume-me -a codex
 npx skills@latest add hardydai-cell/consume-me --skill consume-me -a claude-code
 ```
 
+### openclaw（龙虾）
+
+```bash
+npx skills@latest add hardydai-cell/consume-me --skill consume-me -a openclaw
+```
+
 ### 全局安装
 
 ```bash
@@ -70,7 +76,7 @@ npx skills@latest add hardydai-cell/consume-me --list
 
 ## 它能挂到哪些 Agent 身上
 
-这个 skill 通过 `skills` CLI 工作流分发，可面向 Codex、Claude Code、OpenCode、Cursor 以及更多 agent 环境安装。
+这个 skill 通过 `skills` CLI 工作流分发，可面向 Codex、Claude Code、openclaw（龙虾）、OpenCode、Cursor 以及更多 agent 环境安装。
 
 ## 示例触发语
 
