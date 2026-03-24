@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consume Me"
+  short_description: "Interrogate plans until every decision is explicit"
+  default_prompt: "Use $consume-me to pressure-test this plan from drill-down, lateral-scan, and zoom-out perspectives."
